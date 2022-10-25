@@ -1,1 +1,3 @@
-# test-flavours-api
+# Lychee Pearls Flavour Recommendations API
+
+This is just a test. 
